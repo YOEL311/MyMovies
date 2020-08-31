@@ -1,0 +1,9 @@
+export const LOGIN_USER_SUCCESS = 'login_user_success';
+export const IS_LOGIN = 'is_login';
+export const LOGOUT_USER_SUCCESS = 'logout_user_success';
+export const LOGIN_USER_FAIL = 'login_user_fail';
+export const LOGOUT_USER_FAIL = 'logout_user_fail';
+export const LOGIN_USER = 'login_user';
+export const LOGOUT_USER = 'logout_user';
+export const GET_FAVORITES = 'get_favorites';
+export const GET_FAVORITES_SUCCESS = 'get_favorites_success';
